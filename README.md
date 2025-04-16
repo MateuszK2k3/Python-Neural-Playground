@@ -34,7 +34,7 @@ We investigate how the network architecture, activation functions, number of lay
 ![prediction results](images/results.png)
 
 ### Confusion matrix
-1[confusion matrix](images/confusionmatrix.png)
+![confusion matrix](images/confusionmatrix.png)
 
 ---
 
